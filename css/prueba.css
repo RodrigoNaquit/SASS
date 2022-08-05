@@ -1,0 +1,36 @@
+h1 {
+  background-color: rgba(186, 182, 182, 0.712);
+  color: black;
+  font-size: 72px;
+  border: dotted blue 3px;
+  width: 100%;
+  text-align: center; }
+  h1 nav {
+    border: solid red 3px;
+    padding: 10px; }
+    h1 nav li {
+      background-color: black;
+      color: white;
+      font-size: 10px; }
+
+main {
+  padding: 10px; }
+  main div {
+    border: dotted blue 3px;
+    text-align: right; }
+    main div p {
+      color: darkgreen;
+      background-color: honeydew;
+      text-align: center; }
+
+footer {
+  padding: 10px;
+  border: solid red 3px; }
+  footer span {
+    color: #e03838;
+    font-style: italic;
+    font-size: 12px; }
+    footer span p {
+      color: #1eddfe;
+      font-style: oblique;
+      font-size: 9px; }

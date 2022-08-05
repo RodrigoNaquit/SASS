@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgba(186, 182, 182, 0.712);
+    color: rgb(0, 0, 0);
+    font-size: 72px;
+    border: $border-2;
+    width: 100%;
+    text-align: center;
+
+    nav {
+        border: $border-1;
+        padding: $padding-1;
+        
+        li {
+            background-color: black;
+            color: white;
+            font-size: 10px;
+        }
+    
+    }
+}
